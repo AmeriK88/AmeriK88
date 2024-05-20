@@ -27,7 +27,7 @@ Aquí algunos de los proyectos en los que he estado trabajando:
 
 ¡Me encantaría conectar contigo en otras plataformas también! Encuéntrame en:
 
-- [LinkedIn]([https://www.linkedin.com/in/tunombre](https://www.linkedin.com/in/jose-felix-gordo-casta%C3%B1o-dev-es/))
+- [LinkedIn]((https://www.linkedin.com/in/jose-felix-gordo-casta%C3%B1o-dev-es/))
 
 - [Personal Portfolio](https://portfolio.lanzaway.com/)
 

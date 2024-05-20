@@ -18,7 +18,9 @@ Aquí algunos de los proyectos en los que he estado trabajando:
 - **Portfolio Web/Blog Personal**: Un sitio web donde muestro mi trabajo, proyectos y habilidades.
 - **Fullstack Web**: Registro de usuaros, autenticación y más.
 - **Proyecto web personal**: Una guía web local con lugares emblemáticos y rutas locales.
+- **Aplicación lista compras "Shopper"**: Una aplicación utilizando kivyMD lang.
 - **Varios Juegos**: Python y pygame son geniales para introducirte en el desarrollo de juegos.
+- - **Comprueba el resto en mi perfil**
 
 Podrás revisar mis proyectos en mi perfil, ¡Adelante¡
 

@@ -15,9 +15,12 @@
 
 Aquí algunos de los proyectos en los que he estado trabajando:
 
-- **Portfolio Web Personal**: Un sitio web donde muestro mi trabajo, proyectos y habilidades.
-- **Blog Personal**: Un blog donde comparto mis pensamientos, experiencias y conocimientos.
-- **Proyecto XYZ**: Una aplicación web para hacer algo interesante...
+- **Portfolio Web/Blog Personal**: Un sitio web donde muestro mi trabajo, proyectos y habilidades.
+- **Fullstack Web**: Registro de usuaros, autenticación y más.
+- **Proyecto web personal**: Una guía web local con lugares emblemáticos y rutas locales.
+- **Varios Juegos**: Python y pygame son geniales para introducirte en el desarrollo de juegos.
+
+Podrás revisar mis proyectos en mi perfil, ¡Adelante¡
 
 ## Contribuciones
 

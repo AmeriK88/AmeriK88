@@ -4,9 +4,9 @@
 
 ## Acerca de mí
 
-- 👀 Actualmente estoy interesado/a en aprender y dominar diversas bibliotecas y módulos en el lenguaje Python.
-- 🌱 Tengo conocimientos en HTML, CSS y JavaScript, y estoy enfocado/a en mejorar mis habilidades en Python trabajando en varios proyectos personales.
-- 💞️ Estoy abierto/a a colaborar en ideas y proyectos que me ayuden a adquirir más habilidades y experiencia en este campo.
+- 👀 Actualmente estoy interesado en aprender y dominar diversas bibliotecas y módulos en el lenguaje Python.
+- 🌱 Tengo conocimientos en HTML, CSS y JavaScript, y estoy enfocado en mejorar mis habilidades en Python trabajando en varios proyectos personales.
+- 💞️ Estoy abierto a colaborar en ideas y proyectos que me ayuden a adquirir más habilidades y experiencia en este campo.
 - 📫 Puedes ponerte en contacto conmigo por correo electrónico: [Aquí](mailto:lanzaltura17@gmail.com).
 - 😄 Pronombres: Él :)
 - ⚡ Dato curioso: Si pasas más de 8 horas haciendo un trabajo que disfrutas, no trabajarás ni un solo día en tu vida.

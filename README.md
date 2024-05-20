@@ -1,13 +1,13 @@
 # ¡Hola! Soy José Félix 👋
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un entusiasta de la programación y todo lo que ofrece. Lo que comenzó como un hobby, rápidamente se convirtió en una pasión que me gustaría convertir en mi profesión. A lo largo de los años, he mejorado mis habilidades paso a paso, y estoy emocionado/a por seguir aprendiendo y creciendo en este campo fascinante.
+¡Bienvenido/a a mi perfil de GitHub! Soy un entusiasta de la programación y todo lo que ofrece. Lo que comenzó como un hobby, rápidamente se convirtió en una pasión que me gustaría convertir en mi profesión. A lo largo de los años, he mejorado mis habilidades paso a paso, y estoy emocionado por seguir aprendiendo y creciendo en este campo fascinante.
 
 ## Acerca de mí
 
 - 👀 Actualmente estoy interesado/a en aprender y dominar diversas bibliotecas y módulos en el lenguaje Python.
 - 🌱 Tengo conocimientos en HTML, CSS y JavaScript, y estoy enfocado/a en mejorar mis habilidades en Python trabajando en varios proyectos personales.
 - 💞️ Estoy abierto/a a colaborar en ideas y proyectos que me ayuden a adquirir más habilidades y experiencia en este campo.
-- 📫 Puedes ponerte en contacto conmigo por correo electrónico: [tuemail@example.com](mailto:tuemail@example.com).
+- 📫 Puedes ponerte en contacto conmigo por correo electrónico: [Aquí](mailto:lanzaltura17@gmail.com).
 - 😄 Pronombres: Él :)
 - ⚡ Dato curioso: Si pasas más de 8 horas haciendo un trabajo que disfrutas, no trabajarás ni un solo día en tu vida.
 
@@ -21,7 +21,7 @@ Aquí algunos de los proyectos en los que he estado trabajando:
 
 ## Contribuciones
 
-¡Estoy abierto/a a colaboraciones y nuevas ideas! Si tienes algún proyecto interesante en mente o buscas ayuda en alguno de tus proyectos, ¡no dudes en contactarme!
+¡Estoy abierto a colaboraciones y nuevas ideas! Si tienes algún proyecto interesante en mente o buscas ayuda en alguno de tus proyectos, ¡no dudes en contactarme!
 
 ## Conéctate conmigo
 
@@ -33,4 +33,4 @@ Aquí algunos de los proyectos en los que he estado trabajando:
 
 - [Personal Website]([[https://portfolio.lanzaway.com/](https://lanzaway.com/](https://lanzaway.com/))
 
-¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. ¡No dudes en contactarme si tienes alguna pregunta o sugerencia!
+¡Gracias por visitar mi perfil! ¡No dudes en contactarme si tienes alguna pregunta o sugerencia!

@@ -27,10 +27,11 @@ Aquí algunos de los proyectos en los que he estado trabajando:
 
 ¡Me encantaría conectar contigo en otras plataformas también! Encuéntrame en:
 
-- [LinkedIn]((https://www.linkedin.com/in/jose-felix-gordo-casta%C3%B1o-dev-es/))
-
+- [LinkedIn](https://www.linkedin.com/in/jose-felix-gordo-casta%C3%B1o-dev-es/)
+  
 - [Personal Portfolio](https://portfolio.lanzaway.com/)
+  
+- [Personal Website](https://lanzaway.com/)
 
-- [Personal Website]([[https://portfolio.lanzaway.com/](https://lanzaway.com/](https://lanzaway.com/))
 
 ¡Gracias por visitar mi perfil! ¡No dudes en contactarme si tienes alguna pregunta o sugerencia!

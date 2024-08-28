@@ -4,7 +4,7 @@
 
 ## Acerca de mí
 
-- 👀 Actualmente estoy interesado en aprender y dominar diversas bibliotecas y módulos en el lenguaje Python y librerías como React.
+- 👀 Actualmente estoy inmerso en el aprendizaje y dominio de diversas bibliotecas y módulos en el lenguaje Python (Django) y librerías como React.
 - 🌱 Tengo conocimientos en HTML, CSS y JavaScript, Bootstrap y estoy enfocado en mejorar mis habilidades en diferentes librerías y módulos de Python.
 - 💞️ Estoy abierto a colaborar en ideas y proyectos que me ayuden a adquirir más habilidades y experiencia en este campo.
 - 📫 Puedes ponerte en contacto conmigo por correo electrónico: [Aquí](mailto:lanzaltura17@gmail.com).

@@ -20,7 +20,9 @@ Aquí algunos de los proyectos en los que he estado trabajando:
 - **Proyecto web personal**: Una guía web local con lugares emblemáticos y rutas locales.
 - **Aplicación lista compras "Shopper"**: Una aplicación utilizando kivyMD lang.
 - **Varios Juegos**: Python y pygame son geniales para introducirte en el desarrollo de juegos.
-- - **Comprueba el resto en mi perfil**
+- **Proyecto barbería web app**: App de citas para barbería utilizando django.
+- **Red social Xlang**: Ejemplo de red social con características funcionales.
+- **Comprueba el resto en mi perfil**
 
 Podrás revisar mis proyectos en mi perfil, ¡Adelante¡
 

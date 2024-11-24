@@ -34,7 +34,7 @@ Aquí tienes un vistazo a algunos de los proyectos en los que he trabajado:
 - **Juegos en Python:** Proyectos de desarrollo de juegos usando Pygame.  
 - **[Barbería Web App](https://github.com/AmeriK88/Refactorizaci-n-cabigote-barber):** Sistema de citas para barbería en Django.  
 - **[Red Social Xlang](https://github.com/AmeriK88/Red-social-Django-XLang):** Una red social funcional con Django.
-- **[Red Social Xlang](https://github.com/AmeriK88/Plataforma-servicios-django):** Plataforma multiservicios.  
+- **[Plataforma Servicios](https://github.com/AmeriK88/Plataforma-servicios-django):** Plataforma multiservicios.  
 
 📂 **Descubre más en mi perfil de GitHub: [Visita aquí](https://github.com/AmeriK88)**  
 

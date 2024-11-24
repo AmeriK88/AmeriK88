@@ -4,6 +4,13 @@
 
 ---
 
+## 📈 Mis estadísticas en GitHub  
+
+![José Félix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmeriK88&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeriK88&layout=compact&theme=radical)
+
+---
+
 ## 🧑‍💻 Sobre mí  
 
 - 👀 Actualmente profundizando en **Python** (Django) y **React**.
@@ -33,12 +40,6 @@ Aquí tienes un vistazo a algunos de los proyectos en los que he trabajado:
 
 ---
 
-## 📈 Mis estadísticas en GitHub  
-
-![José Félix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmeriK88&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeriK88&layout=compact&theme=radical)
-
----
 
 ## 🤝 Conectemos  
 

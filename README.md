@@ -27,7 +27,7 @@
 
 Aquí tienes un vistazo a algunos de los proyectos en los que he trabajado:
 
-- **[Portfolio Web/Blog Personal](https://portfolio.lanzaway.com/):** Un sitio web donde muestro mi trabajo, proyectos y habilidades.  
+- **[Portfolio Web/Blog Personal]([https://portfolio.lanzaway.com/](https://josefe.eu.pythonanywhere.com/)):** Un sitio web donde muestro mi trabajo, proyectos y habilidades.  
 - **Fullstack Web:** Registro de usuarios, autenticación y más.  
 - **Proyecto Web Local:** Guía con lugares emblemáticos y rutas locales.  
 - **Aplicación "Shopper":** App de lista de compras utilizando KivyMD.  

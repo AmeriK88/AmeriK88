@@ -17,7 +17,7 @@
 - 🌱 Con conocimientos en **HTML**, **CSS**, **JavaScript** y **Bootstrap**.
 - 💡 Siempre en busca de proyectos desafiantes para seguir aprendiendo y aplicando nuevas tecnologías.
 - 💬 Abierto a colaborar en proyectos que promuevan el aprendizaje mutuo.
-- 📫 Contacto: [lanzaltura17@gmail.com](mailto:lanzaltura17@gmail.com)
+- 📫 Contacto: [Envíame un correo](mailto:lanzaltura17@gmail.com)
 - 😄 Pronombres: Él :)
 - ⚡ **Dato curioso:** _Si pasas más de 8 horas haciendo lo que amas, no trabajarás ni un solo día._
 

@@ -46,7 +46,7 @@ Aquí tienes un vistazo a algunos de los proyectos en los que he trabajado:
 ¡Me encantaría conectar contigo en otras plataformas!  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-felix-gordo-casta%C3%B1o-dev-es/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github&logoColor=white)](https://portfolio.lanzaway.com/)  
+
 [![Website](https://img.shields.io/badge/-Website-orange?logo=google-chrome&logoColor=white)](https://lanzaway.com/)  
 
 ---

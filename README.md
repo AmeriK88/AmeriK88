@@ -36,7 +36,7 @@ Aquí tienes un vistazo a algunos de los proyectos en los que he trabajado:
 - **[Red Social Xlang](https://github.com/AmeriK88/Red-social-Django-XLang):** Una red social funcional con Django.
 - **[Plataforma Servicios](https://github.com/AmeriK88/Plataforma-servicios-django):** Plataforma multiservicios.  
 
-📂 **Descubre más en mi perfil de GitHub: [Visita aquí]([https://github.com/AmeriK88](https://github.com/AmeriK88?tab=repositories))**  
+📂 **Descubre más en mi perfil de GitHub: [Visita aquí](https://github.com/AmeriK88?tab=repositories)**  
 
 ---
 

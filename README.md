@@ -6,6 +6,8 @@
 
 ## 📈 Mis estadísticas en GitHub  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeriK88&layout=compact&theme=radical&cache_seconds=1800)
+![José Félix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmeriK88&show_icons=true&theme=radical&cache_seconds=1800)
 
 
 ---

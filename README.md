@@ -29,10 +29,10 @@
 Aquí tienes un vistazo a algunos de los proyectos en los que he trabajado:
 
 - **[Portfolio Web/Blog Personal](https://josefe.eu.pythonanywhere.com/):** Un sitio web donde muestro mi trabajo, proyectos y habilidades.  
-- **Fullstack Web:** Registro de usuarios, autenticación y más.  
-- **Proyecto Web Local:** Guía con lugares emblemáticos y rutas locales.  
-- **Aplicación "Shopper":** App de lista de compras utilizando KivyMD.  
-- **Juegos en Python:** Proyectos de desarrollo de juegos usando Pygame.  
+- **[Firebase Fullstack web](https://github.com/AmeriK88/Fullstack-web-app)** Registro de usuarios, autenticación y más.  https://github.com/AmeriK88/Fullstack-web-app
+- **[Guía web local](https://github.com/AmeriK88/Guia-web-local)** Guía con lugares emblemáticos y rutas locales.  
+- **[Aplicación Shopper](https://github.com/AmeriK88/KivyMD-Shopper-appr)** App de lista de compras utilizando KivyMD.  
+- **[Juegos Pygame](https://github.com/AmeriK88/Arcade-pygame).  
 - **[Barbería Web App](https://github.com/AmeriK88/Refactorizaci-n-cabigote-barber):** Sistema de citas para barbería en Django.  
 - **[Red Social Xlang](https://github.com/AmeriK88/Red-social-Django-XLang):** Una red social funcional con Django.
 - **[Plataforma Servicios](https://github.com/AmeriK88/Plataforma-servicios-django):** Plataforma multiservicios.  

@@ -32,7 +32,6 @@ Aquí tienes un vistazo a algunos de los proyectos en los que he trabajado:
 - **[Firebase Fullstack web](https://github.com/AmeriK88/Fullstack-web-app)** Registro de usuarios, autenticación y más. 
 - **[Guía web local](https://github.com/AmeriK88/Guia-web-local)** Guía con lugares emblemáticos y rutas locales.  
 - **[Aplicación Shopper](https://github.com/AmeriK88/KivyMD-Shopper-appr)** App de lista de compras utilizando KivyMD.  
-- **[Juegos Pygame](https://github.com/AmeriK88/Arcade-pygame).  
 - **[Barbería Web App](https://github.com/AmeriK88/Refactorizaci-n-cabigote-barber):** Sistema de citas para barbería en Django.  
 - **[Red Social Xlang](https://github.com/AmeriK88/Red-social-Django-XLang):** Una red social funcional con Django.
 - **[Plataforma Servicios](https://github.com/AmeriK88/Plataforma-servicios-django):** Plataforma multiservicios.  

@@ -15,7 +15,7 @@
 ## 🧑‍💻 Sobre mí  
 
 - 👀 Actualmente profundizando en **Python** (Django) y **React**.
-- 🌱 Con conocimientos en **HTML**, **CSS**, **JavaScript** y **Bootstrap**.
+- 🌱 Con conocimientos en **HTML**, **CSS**, **JavaScript**, **Python** y **Bootstrap**.
 - 💡 Siempre en busca de proyectos desafiantes para seguir aprendiendo y aplicando nuevas tecnologías.
 - 💬 Abierto a colaborar en proyectos que promuevan el aprendizaje mutuo.
 - 📫 Contacto: [Envíame un correo](mailto:lanzaltura17@gmail.com)

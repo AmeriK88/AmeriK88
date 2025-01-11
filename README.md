@@ -54,7 +54,7 @@ Aquí tienes un vistazo a algunos de los proyectos en los que he trabajado:
 
 🌟 Proyectos Personal
 
-[![Personal Project](https://img.shields.io/badge/-Website-gray?logo=google-chrome&logoColor=white)](https://lanzaway.com/)  
+[![Proyecto Personal](https://img.shields.io/badge/-Proyecto%20Personal-gray?logo=google-chrome&logoColor=white)](https://cabigotebarbershop.com/)
 
 ---
 

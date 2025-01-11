@@ -51,6 +51,8 @@ Aquí tienes un vistazo a algunos de los proyectos en los que he trabajado:
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?logo=github&logoColor=white)](https://josefe.eu.pythonanywhere.com/)
 
+[![Personal Project](https://img.shields.io/badge/-Website-gray?logo=google-chrome&logoColor=white)](https://lanzaway.com/)  
+
 ---
 
 ## ✨ Dato Extra  

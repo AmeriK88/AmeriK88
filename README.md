@@ -1,62 +1,35 @@
-# ¡Hola! 👋 Soy José Félix  
+# Hello! 👋 I'm José Félix
 
-¡Bienvenido/a a mi perfil de GitHub! 🚀 Soy un apasionado de la programación que convirtió un hobby en una verdadera pasión. Estoy emocionado por seguir aprendiendo, creciendo y colaborando en este fascinante mundo del desarrollo.
+Welcome to my GitHub profile! 🚀 I'm a programming enthusiast who turned a hobby into a true passion. I'm excited to keep learning, growing, and collaborating in this fascinating world of development.
 
 ---
 
-## 📈 Mis estadísticas en GitHub  
+## 📈 My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeriK88&layout=compact&theme=radical&cache_seconds=1800)
 ![José Félix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmeriK88&show_icons=true&theme=radical&cache_seconds=1800)
 
+---
+
+## 🧑‍💻 About Me
+
+- 👀 Currently deepening my knowledge in **Python** (Django) and **React**.
+- 🌱 Experienced with **HTML**, **CSS**, **JavaScript**, **Python**, and **Bootstrap**.
+- 💡 Always on the lookout for challenging projects to keep learning and applying new technologies.
+- 💬 Open to collaborating on projects that promote mutual learning.
+- 📫 Contact: [Send me an email](mailto:lanzaltura17@gmail.com)
+- 😄 Pronouns: He/Him :)
+- ⚡ **Fun Fact:** _If you spend more than 8 hours doing what you love, you'll never work a day in your life._
 
 ---
 
-## 🧑‍💻 Sobre mí  
+## 🌟 Featured Projects
 
-- 👀 Actualmente profundizando en **Python** (Django) y **React**.
-- 🌱 Con conocimientos en **HTML**, **CSS**, **JavaScript**, **Python** y **Bootstrap**.
-- 💡 Siempre en busca de proyectos desafiantes para seguir aprendiendo y aplicando nuevas tecnologías.
-- 💬 Abierto a colaborar en proyectos que promuevan el aprendizaje mutuo.
-- 📫 Contacto: [Envíame un correo](mailto:lanzaltura17@gmail.com)
-- 😄 Pronombres: Él :)
-- ⚡ **Dato curioso:** _Si pasas más de 8 horas haciendo lo que amas, no trabajarás ni un solo día._
+Here's a look at some of the projects I've worked on:
 
----
-
-## 🌟 Proyectos Destacados  
-
-Aquí tienes un vistazo a algunos de los proyectos en los que he trabajado:
-
-- **[Portfolio Web/Blog Personal](https://josefe.eu.pythonanywhere.com/):** Un sitio web donde muestro mi trabajo, proyectos y habilidades.  
-- **[Firebase Fullstack web](https://github.com/AmeriK88/Fullstack-web-app)** Registro de usuarios, autenticación y más. 
-- **[Guía web local](https://github.com/AmeriK88/Guia-web-local)** Guía con lugares emblemáticos y rutas locales.  
-- **[Aplicación Shopper](https://github.com/AmeriK88/KivyMD-Shopper-appr)** App de lista de compras utilizando KivyMD.  
-- **[Barbería Web App](https://github.com/AmeriK88/Refactorizaci-n-cabigote-barber):** Sistema de citas para barbería en Django.  
-- **[Red Social Xlang](https://github.com/AmeriK88/Red-social-Django-XLang):** Una red social funcional con Django.
-- **[Plataforma Servicios](https://github.com/AmeriK88/Plataforma-servicios-django):** Plataforma multiservicios.  
-
-📂 **Descubre más en mi perfil de GitHub: [Visita aquí](https://github.com/AmeriK88?tab=repositories)**  
-
----
-
-
-## 🤝 Conectemos  
-
-¡Me encantaría conectar contigo en otras plataformas!  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-felix-gordo-casta%C3%B1o-dev-es/)  
-
-[![Website](https://img.shields.io/badge/-Website-orange?logo=google-chrome&logoColor=white)](https://lanzaway.com/)  
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?logo=github&logoColor=white)](https://josefe.eu.pythonanywhere.com/)
-
-
-🌟 Proyectos Personal
-
-[![Proyecto Personal](https://img.shields.io/badge/-Proyecto%20Personal-gray?logo=google-chrome&logoColor=white)](https://cabigotebarbershop.com/)
-
----
-
-## ✨ Dato Extra  
-_"Gracias por visitar mi perfil. No dudes en contactarme si tienes alguna pregunta, sugerencia o un proyecto interesante en mente."_
+- **[Personal Portfolio/Web Blog](https://josefe.eu.pythonanywhere.com/):** A website showcasing my work, projects, and skills.
+- **[Firebase Fullstack Web](https://github.com/AmeriK88/Fullstack-web-app):** User registration, authentication, and more.
+- **[Local Web Guide](https://github.com/AmeriK88/Guia-web-local):** A guide featuring landmarks and local routes.
+- **[Shopper App](https://github.com/AmeriK88/KivyMD-Shopper-appr):** A shopping list app built with KivyMD.
+- **[Barbershop Web App](https://github.com/AmeriK88/Refactorizaci-n-cabigote-barber):** An appointment scheduling system for a barbershop built with Django.
+- **[Xlang Social Network](**

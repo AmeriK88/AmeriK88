@@ -52,6 +52,7 @@ I'd love to connect with you on other platforms!
 ### 🌟 Personal Projects
 
 [![Personal Project](https://img.shields.io/badge/-Personal%20Project-gray?logo=google-chrome&logoColor=white)](https://cabigotebarbershop.com/)
+[![Personal Project](https://img.shields.io/badge/-Personal%20Project-yellow?logo=google-chrome&logoColor=white)](https://carlamarqueznails.com/)
 
 ---
 

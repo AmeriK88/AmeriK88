@@ -47,7 +47,7 @@ I'd love to connect with you on other platforms!
 
 [![Website](https://img.shields.io/badge/-Website-orange?logo=google-chrome&logoColor=white)](https://lanzaway.com/)
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?logo=github&logoColor=white)](https://josefe.eu.pythonanywhere.com/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?logo=github&logoColor=white)](https://web-production-jfgc.up.railway.app/)
 
 ### 🌟 Personal Projects
 

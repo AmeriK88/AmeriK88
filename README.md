@@ -27,7 +27,7 @@ Welcome to my GitHub profile! 🚀 I'm a programming enthusiast who turned a hob
 
 Here's a look at some of the projects I've worked on:
 
-- **[Personal Portfolio/Web Blog](https://josefe.eu.pythonanywhere.com/):** A website where I showcase my work, projects, and skills.
+- **[Personal Portfolio/Services Platform](https://web-production-jfgc.up.railway.app/):** A website where I showcase my work, projects, skills and you can hire my services.
 - **[Firebase Fullstack Web App](https://github.com/AmeriK88/Fullstack-web-app):** User registration, authentication, and more.
 - **[Local Web Guide](https://github.com/AmeriK88/Guia-web-local):** A guide featuring iconic places and local routes.
 - **[Shopper App](https://github.com/AmeriK88/KivyMD-Shopper-appr):** A shopping list app built with KivyMD.

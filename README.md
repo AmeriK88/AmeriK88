@@ -18,7 +18,7 @@ Welcome to my GitHub profile! 🚀 I'm a programming enthusiast who turned a hob
 - 💡 Always on the lookout for challenging projects to continue learning and applying new technologies.
 - 💬 Open to collaborating on projects that foster mutual learning.
 - 📫 Contact: [Send me an email](mailto:lanzaltura17@gmail.com)
-- 😄 Pronouns: He/Him :)
+- 😄 Pronouns: Common sense :)
 - ⚡ **Fun Fact:** _If you spend more than 8 hours doing what you love, you'll never work a day in your life._
 
 ---

@@ -51,8 +51,8 @@ I'd love to connect with you on other platforms!
 
 ### 🌟 Personal Projects
 
-[![Personal Project](https://img.shields.io/badge/-Personal%20Project-gray?logo=google-chrome&logoColor=white)](https://cabigotebarbershop.com/)
-[![Personal Project](https://img.shields.io/badge/-gloginsjr.com-blue?logo=google-chrome&logoColor=white)](https://gloginsjr.com)
+[![cabigotebarbershop.com](https://img.shields.io/badge/-cabigotebarbershop.com-gray?logo=google-chrome&logoColor=white)](https://cabigotebarbershop.com/)
+[![gloginsjr.com](https://img.shields.io/badge/-gloginsjr.com-blue?logo=google-chrome&logoColor=white)](https://gloginsjr.com)
 
 ---
 

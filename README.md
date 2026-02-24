@@ -49,8 +49,10 @@ I build products.
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeriK88&layout=compact&theme=radical&cache_seconds=1800)  
-![José Félix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmeriK88&show_icons=true&theme=radical&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmeriK88&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeriK88&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="170">
+</p>
 
 ---
 

@@ -104,7 +104,7 @@ I don't just code features.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/jose-felix-gordo-casta%C3%B1o-dev-es/
 - 🌐 Portfolio: https://web-production-jfgc.up.railway.app/
-- 📫 Email: lanzaltura17@gmail.com
+- 📫 Email: josefe59@hotmail.com
 
 ---
 

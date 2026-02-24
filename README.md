@@ -1,62 +1,123 @@
-# Hello! 👋 I'm José Félix
+# 👋 Hi, I'm José Félix  
 
-Welcome to my GitHub profile! 🚀 I'm a programming enthusiast who turned a hobby into a true passion. I'm excited to keep learning, growing, and collaborating in this fascinating world of development.
+**Full-Stack Developer | Product Builder | SaaS-Driven Mindset**  
+
+I build digital products with a strong focus on real-world problems, clean architecture, and scalable systems.  
+What started as curiosity became obsession. What became obsession turned into execution.
 
 ---
 
-## 📈 My GitHub Stats
+## 🚀 What I Do
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeriK88&layout=compact&theme=radical&cache_seconds=1800) 
+- 🧠 Design and build **end-to-end web platforms**
+- 🏗 Architect scalable systems with **Django & PostgreSQL**
+- ⚡ Develop modern frontends with **React & Tailwind**
+- 🔐 Implement secure authentication flows (JWT, role systems, permissions)
+- 💳 Integrate payment systems and SaaS monetization logic
+- ☁️ Deploy production-ready apps (Railway, environment management, CI mindset)
+
+I don't just code features.  
+I build products.
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
+- JWT Authentication
+
+**Frontend**
+- React
+- Tailwind CSS
+- Bootstrap
+- JavaScript (ES6+)
+
+**Mobile**
+- Flutter
+
+**Dev & Infra**
+- Git / GitHub
+- Railway
+- Environment configuration
+- Production deployments
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeriK88&layout=compact&theme=radical&cache_seconds=1800)  
 ![José Félix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmeriK88&show_icons=true&theme=radical&cache_seconds=1800)
 
+---
+
+## 🧩 Product-Oriented Projects
+
+Here are some of the platforms I've designed and built:
+
+### 🔹 SaaS & Marketplaces
+- **Tourism Digital Infrastructure Platform**  
+  Booking logic, guide verification, experience management, state-based workflows.
+
+- **Multi-Service Platform**  
+  Role-based dashboards, structured data models, scalable architecture.
+
+### 🔹 Appointment & Business Systems
+- **Barbershop Booking System**  
+  Appointment management, admin dashboards, dynamic availability logic.
+
+### 🔹 Social & Community Apps
+- **Custom Social Network (Django)**  
+  Posts, likes, profiles, authentication flows.
+
+### 🔹 Fullstack & Experimental Projects
+- Firebase authentication apps  
+- Flutter health tracking system  
+- KivyMD mobile application  
+
+More projects here →  
+👉 https://github.com/AmeriK88
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 Current Focus
 
-- 👀 Currently deepening my knowledge in **Python** (Django) and **React**.
-- 🌱 Experienced with **HTML**, **CSS**, **JavaScript**, **Python**, and **Bootstrap**.
-- 💡 Always on the lookout for challenging projects to continue learning and applying new technologies.
-- 💬 Open to collaborating on projects that foster mutual learning.
-- 📫 Contact: [Send me an email](mailto:lanzaltura17@gmail.com)
-- 😄 Pronouns: Common sense :)
-- ⚡ **Fun Fact:** _If you spend more than 8 hours doing what you love, you'll never work a day in your life._
-
----
-
-## 🌟 Featured Projects
-
-Here's a look at some of the projects I've worked on:
-
-- **[Personal Portfolio/Services Platform](https://web-production-jfgc.up.railway.app/):** A website where I showcase my work, projects, skills and you can hire my services.
-- **[Firebase Fullstack Web App](https://github.com/AmeriK88/Fullstack-web-app):** User registration, authentication, and more.
-- **[Local Web Guide](https://github.com/AmeriK88/Guia-web-local):** A guide featuring iconic places and local routes.
-- **[Shopper App](https://github.com/AmeriK88/KivyMD-Shopper-appr):** A shopping list app built with KivyMD.
-- **[Barbershop Web App](https://github.com/AmeriK88/Refactorizaci-n-cabigote-barber):** An appointment booking system for a barbershop built with Django.
-- **[Xlang Social Network](https://github.com/AmeriK88/Red-social-Django-XLang):** A fully functional social network built with Django.
-- **[Services Platform](https://github.com/AmeriK88/Plataforma-servicios-django):** A multiservice platform.
-
-Discover more on my GitHub profile: [Visit here](https://github.com/AmeriK88?tab=repositories)
+- Building scalable SaaS architectures  
+- Refining product UX & system design  
+- Improving performance & clean code structure  
+- Expanding into more advanced system design patterns  
 
 ---
 
 ## 🤝 Let's Connect
 
-I'd love to connect with you on other platforms!
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/jose-felix-gordo-casta%C3%B1o-dev-es/
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-felix-gordo-casta%C3%B1o-dev-es/)
+- 🌐 Personal Website:  
+  https://web-production-jfgc.up.railway.app/
 
-[![Website](https://img.shields.io/badge/-Website-orange?logo=google-chrome&logoColor=white)](https://lanzaway.com/)
+  
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?logo=github&logoColor=white)](https://web-production-jfgc.up.railway.app/)
-
-### 🌟 Personal Projects
+ ## 🌟 Personal Projects
 
 [![cabigotebarbershop.com](https://img.shields.io/badge/-cabigotebarbershop.com-gray?logo=google-chrome&logoColor=white)](https://cabigotebarbershop.com/)
 [![gloginsjr.com](https://img.shields.io/badge/-gloginsjr.com-blue?logo=google-chrome&logoColor=white)](https://gloginsjr.com)
 
+
 ---
 
-## ✨ Extra Note
+## ⚡ Philosophy
 
-_"Thanks for visiting my profile. Don't hesitate to reach out if you have any questions, suggestions, or an interesting project in mind."_
+> Build real things.  
+> Solve real problems.  
+> Ship consistently.  
+> Improve relentlessly.
+
+---
+
+Thanks for stopping by.
+If you're building something meaningful — let's talk.

@@ -1,6 +1,35 @@
-# 👋 Hi, I'm José Félix  
+<!-- =========================
+     PROFILE README — AmeriK88
+     ========================= -->
 
-**Full-Stack Developer | Product Builder | SaaS-Driven Mindset**  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jos%C3%A9+F%C3%A9lix+%F0%9F%91%8B;Full-Stack+Developer+%7C+Product+Builder;Django+%2B+React+%7C+SaaS-Driven+Mindset;I+build+real+products.+I+ship." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jose-felix-gordo-casta%C3%B1o-dev-es/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web-production-jfgc.up.railway.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-6f42c1?logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:lanzaltura17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AmeriK88?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-Explore-111827?logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmeriK88&style=flat&color=0A66C2" alt="profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+**Full-Stack Developer | Product Builder | SaaS-Driven Mindset**
 
 I build digital products with a strong focus on real-world problems, clean architecture, and scalable systems.  
 What started as curiosity became obsession. What became obsession turned into execution.
@@ -12,53 +41,31 @@ What started as curiosity became obsession. What became obsession turned into ex
 - 🧠 Design and build **end-to-end web platforms**
 - 🏗 Architect scalable systems with **Django & PostgreSQL**
 - ⚡ Develop modern frontends with **React & Tailwind**
-- 🔐 Implement secure authentication flows (JWT, role systems, permissions)
+- 🔐 Implement secure authentication flows (JWT, roles, permissions)
 - 💳 Integrate payment systems and SaaS monetization logic
-- ☁️ Deploy production-ready apps (Railway, environment management, CI mindset)
+- ☁️ Deploy production-ready apps (Railway, env management, production mindset)
 
 I don't just code features.  
-I build products.
+**I build products.**
 
 ---
 
-## 🛠 Tech Stack
-
-**Backend**
-- Python
-- Django
-- Django REST Framework
-- PostgreSQL
-- JWT Authentication
-
-**Frontend**
-- React
-- Tailwind CSS
-- Bootstrap
-- JavaScript (ES6+)
-
-**Mobile**
-- Flutter
-
-**Dev & Infra**
-- Git / GitHub
-- Railway
-- Environment configuration
-- Production deployments
-
----
-
-## 📊 GitHub Stats
+## 🧰 Tech Stack (Icons)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmeriK88&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeriK88&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="170">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,js,react,tailwind,bootstrap,html,css,flutter,git,github,linux,vscode&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-1f2937?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT%20Auth-1f2937?style=flat&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway%20Deploy-1f2937?style=flat&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-1f2937?style=flat&logo=archlinux&logoColor=white" />
 </p>
 
 ---
 
 ## 🧩 Product-Oriented Projects
-
-Here are some of the platforms I've designed and built:
 
 ### 🔹 SaaS & Marketplaces
 - **Tourism Digital Infrastructure Platform**  
@@ -80,8 +87,7 @@ Here are some of the platforms I've designed and built:
 - Flutter health tracking system  
 - KivyMD mobile application  
 
-More projects here →  
-👉 https://github.com/AmeriK88
+👉 More repos: https://github.com/AmeriK88
 
 ---
 
@@ -94,21 +100,18 @@ More projects here →
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-- 💼 LinkedIn:  
-  https://www.linkedin.com/in/jose-felix-gordo-casta%C3%B1o-dev-es/
+- 💼 LinkedIn: https://www.linkedin.com/in/jose-felix-gordo-casta%C3%B1o-dev-es/
+- 🌐 Portfolio: https://web-production-jfgc.up.railway.app/
+- 📫 Email: lanzaltura17@gmail.com
 
-- 🌐 Personal Website:  
-  https://web-production-jfgc.up.railway.app/
+---
 
-  
+## 🌟 Personal Projects
 
- ## 🌟 Personal Projects
-
-[![cabigotebarbershop.com](https://img.shields.io/badge/-cabigotebarbershop.com-gray?logo=google-chrome&logoColor=white)](https://cabigotebarbershop.com/)
-[![gloginsjr.com](https://img.shields.io/badge/-gloginsjr.com-blue?logo=google-chrome&logoColor=white)](https://gloginsjr.com)
-
+[![cabigotebarbershop.com](https://img.shields.io/badge/-cabigotebarbershop.com-111827?logo=google-chrome&logoColor=white)](https://cabigotebarbershop.com/)
+[![gloginsjr.com](https://img.shields.io/badge/-gloginsjr.com-2563eb?logo=google-chrome&logoColor=white)](https://gloginsjr.com)
 
 ---
 
@@ -121,5 +124,5 @@ More projects here →
 
 ---
 
-Thanks for stopping by.
-If you're building something meaningful — let's talk.
+Thanks for stopping by.  
+If you're building something meaningful — **let’s talk**.

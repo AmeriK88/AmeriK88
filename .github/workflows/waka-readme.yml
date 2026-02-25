@@ -1,5 +1,4 @@
-name: Waka Readme
-
+name: Waka Readme (AmeriK88)
 on:
   schedule:
     - cron: "0 0 * * *"

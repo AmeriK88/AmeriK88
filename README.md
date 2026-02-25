@@ -100,6 +100,13 @@ I don't just code features.
 
 ---
 
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/jose-felix-gordo-casta%C3%B1o-dev-es/

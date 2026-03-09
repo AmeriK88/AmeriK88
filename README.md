@@ -105,12 +105,12 @@ I don't just code features.
 <!--START_SECTION:waka-->
 
 ```txt
-HTML              22 hrs 11 mins        ██████████████▓░░░░░░░░░░   59.00 %
-CSS               8 hrs 5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
-Gettext Catalog   3 hrs 25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-Python            2 hrs 26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-JavaScript        44 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Markdown          17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+HTML              20 hrs 29 mins        ██████████████░░░░░░░░░░░   56.00 %
+CSS               9 hrs 59 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
+Python            1 hr 46 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+JavaScript        1 hr 42 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Gettext Catalog   1 hr 39 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Bash              22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->

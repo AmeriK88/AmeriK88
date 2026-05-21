@@ -105,11 +105,7 @@ I don't just code features.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       17 mins               ███████████░░░░░░░░░░░░░░   44.55 %
-Markdown     10 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
-Other        6 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
-JSON         4 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Other   6 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

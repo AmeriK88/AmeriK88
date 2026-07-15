@@ -105,9 +105,7 @@ I don't just code features.
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       13 mins               ██████████████████▒░░░░░░   72.67 %
-HTML       5 mins                ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

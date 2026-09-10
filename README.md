@@ -105,7 +105,12 @@ I don't just code features.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown          7 mins                ███████████████████▓░░░░░   78.94 %
+Gettext Catalog   2 mins                █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
+HTML              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Text              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

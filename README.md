@@ -105,11 +105,7 @@ I don't just code features.
 <!--START_SECTION:waka-->
 
 ```txt
-Gettext Catalog   31 mins               ██████████████▓░░░░░░░░░░   58.94 %
-HTML              9 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
-Python            5 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-Other             5 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-Text              0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

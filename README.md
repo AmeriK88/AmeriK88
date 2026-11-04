@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/jose-felix-gordo-casta%C3%B1o-dev-es/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://web-production-jfgc.up.railway.app/">
+  <a href="https://jfgc.up.railway.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-6f42c1?logo=github&logoColor=white" />
   </a>
   <a href="mailto:josefe59@hotmail.com">
@@ -31,7 +31,7 @@
 
 **Full-Stack Developer | Product Builder | SaaS-Driven Mindset**
 
-I build digital products with a strong focus on real-world problems, clean architecture, and scalable systems.  
+I build digital products with a strong focus on real-world problems, clean architecture, and scalable systems.
 What started as curiosity became obsession. What became obsession turned into execution.
 
 ---
@@ -45,7 +45,7 @@ What started as curiosity became obsession. What became obsession turned into ex
 - 💳 Integrate payment systems and SaaS monetization logic
 - ☁️ Deploy production-ready apps (Railway, env management, production mindset)
 
-I don't just code features.  
+I don't just code features.
 **I build products.**
 
 ---
@@ -68,24 +68,24 @@ I don't just code features.
 ## 🧩 Product-Oriented Projects
 
 ### 🔹 SaaS & Marketplaces
-- **Tourism Digital Infrastructure Platform**  
+- **Tourism Digital Infrastructure Platform**
   Booking logic, guide verification, experience management, state-based workflows.
 
-- **Multi-Service Platform**  
+- **Multi-Service Platform**
   Role-based dashboards, structured data models, scalable architecture.
 
 ### 🔹 Appointment & Business Systems
-- **Barbershop Booking System**  
+- **Barbershop Booking System**
   Appointment management, admin dashboards, dynamic availability logic.
 
 ### 🔹 Social & Community Apps
-- **Custom Social Network (Django)**  
+- **Custom Social Network (Django)**
   Posts, likes, profiles, authentication flows.
 
 ### 🔹 Fullstack & Experimental Projects
-- Firebase authentication apps  
-- Flutter health tracking system  
-- KivyMD mobile application  
+- Firebase authentication apps
+- Flutter health tracking system
+- KivyMD mobile application
 
 👉 More repos: https://github.com/AmeriK88
 
@@ -93,10 +93,10 @@ I don't just code features.
 
 ## 🧠 Current Focus
 
-- Building scalable SaaS architectures  
-- Refining product UX & system design  
-- Improving performance & clean code structure  
-- Expanding into more advanced system design patterns  
+- Building scalable SaaS architectures
+- Refining product UX & system design
+- Improving performance & clean code structure
+- Expanding into more advanced system design patterns
 
 ---
 
@@ -134,12 +134,12 @@ Text         29 mins               █░░░░░░░░░░░░░░
 
 ## ⚡ Philosophy
 
-> Build real things.  
-> Solve real problems.  
-> Ship consistently.  
+> Build real things.
+> Solve real problems.
+> Ship consistently.
 > Improve relentlessly.
 
 ---
 
-Thanks for stopping by.  
+Thanks for stopping by.
 If you're building something meaningful — **let’s talk**.
